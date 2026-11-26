@@ -1,2 +1,2 @@
 # CloudFolio
-My AWS s3 serverless portfolio website
+My AWS S3 Serverless Portfolio Website
